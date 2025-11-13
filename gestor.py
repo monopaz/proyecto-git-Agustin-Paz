@@ -1,0 +1,9 @@
+# Sistema de gestión de tareas
+
+def crear_tarea(nombre):
+
+    print(f"Tarea '{nombre}' creada exitosamente")
+
+if __name__ == "__main__":
+
+    crear_tarea("Tarea de ejemplo")
