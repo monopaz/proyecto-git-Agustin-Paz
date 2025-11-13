@@ -1,4 +1,4 @@
-# proyecto-git-Agustin-Paz
+# Sistema de Gestión de Tareas - Versión Optimizada
 # Sistema de Gestión de Tareas
 
 Este repositorio contiene un proyecto de práctica para el examen de control de versiones.
