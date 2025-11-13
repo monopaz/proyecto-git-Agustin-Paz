@@ -2,7 +2,7 @@
 
 def crear_tarea(nombre):
 
-    print(f"Tarea '{nombre}' creada exitosamente")
+    print(f"✓ Tarea '{nombre}' ha sido agregada al sistema")
 
 if __name__ == "__main__":
 
@@ -10,11 +10,13 @@ if __name__ == "__main__":
 
 def listar_tareas():
 
-    print("Listando todas las tareas...")
+    print("→ Mostrando todas las tareas registradas...")
+
 
 def eliminar_tarea(nombre):
 
-    print(f"Tarea '{nombre}' eliminada")
+    print(f"✗ Tarea '{nombre}' ha sido eliminada del sistema")
+
 
 if __name__ == "__main__":
 
