@@ -7,6 +7,21 @@ def crear_tarea(nombre):
 if __name__ == "__main__":
 
     crear_tarea("Tarea de ejemplo")
+## Características
+
+### Funcionalidades principales
+
+- Creación de tareas
+
+- Gestión eficiente
+
+- Interfaz intuitiva
+
+### Tecnologías
+
+- Python 3.x
+
+- Git para control de versiones
 
 def listar_tareas():
 
